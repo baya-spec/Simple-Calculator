@@ -11,11 +11,11 @@ logic.
 
 ## Contributors
 This project was developed by:
-Bahiru Gebeyehu
-Anene Achalu
-Bereket Teketel
-Addishiwot Abdisa
-Biniyam Birhanu
+Bahiru Gebeyehu,, 
+Anene Achalu,, 
+Bereket Teketel,, 
+Addishiwot Abdisa,, 
+Biniyam Birhanu,, 
 Biruk Tibebe
 ## How to Run the Program
 1. Clone the repository:
