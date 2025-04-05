@@ -8,6 +8,15 @@ requests.
 5. **Barkotee**: Implemented division functionality.
 6. **Biruk530**: Implemented the user interface and main program 
 logic.
+
+## Contributors
+This project was developed by:
+Bahiru Gebeyehu
+Anene Achalu
+Bereket Teketel
+Addishiwot Abdisa
+Biniyam Birhanu
+Biruk Tibebe
 ## How to Run the Program
 1. Clone the repository:
  ```bash
@@ -20,11 +29,4 @@ g++ main.cpp -o calculator
 3. Run the program:
 bash
 ./calculator
-## Contributors
-This project was developed by:
-Bahiru Gebeyehu
-Anene Achalu
-Bereket Teketel
-Addishiwot Abdisa
-Biniyam Birhanu
-Biruk Tibebe
+
